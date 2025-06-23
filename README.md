@@ -10,10 +10,10 @@ I am a board-certified Medical Laboratory Scientist with over seven years of exp
 
 - Serum and hemoglobin electrophoresis interpretation  
 - Coagulation assays (PT, aPTT, Anti-Xa, STACLOT LA, Factor assays)  
-- CBC morphology reviews and differential counts  
+- CBC and Body Fluid analysis and cell differentials  
 - Instrument maintenance, QC/QA compliance, and troubleshooting
 
-Currently, I am pursuing an M.S. in Computer Science, where my academic and research interests lie at the intersection of artificial intelligence and laboratory medicine. I focus on applying machine learning and evolutionary computing to real-world healthcare challenges, particularly in the analysis of electrophoretic data and detection of lab result anomalies (e.g., IV fluid contamination in CMP/CBC panels).
+Currently, I am pursuing an M.S. in Computer Science, where my academic and research interests lie at the intersection of artificial intelligence and laboratory medicine. I focus on applying machine learning and evolutionary computing to real-world healthcare challenges, particularly in the analysis of electrophoretic data and detection of lab result anomalies.
 
 ---
 
