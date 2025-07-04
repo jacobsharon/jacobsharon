@@ -1,4 +1,4 @@
-# Jacob Sharon BS, MLS(ASCP)CM
+# Jacob Sharon BS, MLS(ASCP)<sup>CM</sup>
 
 Graduate Student in Computer Science | Certified Medical Laboratory Scientist | Researcher in Clinical AI
 
