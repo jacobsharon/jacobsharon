@@ -1,6 +1,6 @@
 # Jacob Sharon BS, MLS(ASCP)CM
 
-🎓 Graduate Student in Computer Science | 🧪 Certified Medical Laboratory Scientist | 🤖 Researcher in Clinical AI
+Graduate Student in Computer Science | Certified Medical Laboratory Scientist | Researcher in Clinical AI
 
 ---
 
@@ -33,5 +33,3 @@ Currently, I am pursuing an M.S. in Computer Science, where my academic and rese
 **Domains:** Machine Learning, Heuristic Search, Genetic Algorithms, Laboratory Informatics  
 
 ---
-
-> *"Bridging clinical diagnostics and intelligent systems through data-driven innovation."*
