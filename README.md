@@ -6,7 +6,7 @@ Graduate Student in Computer Science | Certified Medical Laboratory Scientist | 
 
 ## About Me
 
-I am an American Society for Clinical Pathology certified Medical Laboratory Scientist with over seven years of experience performing high-complexity testing in a large clinical laboratory environment. My background includes extensive work in clinical chemistry, hematology, and coagulation—routinely handling advanced diagnostic procedures such as:
+I am a Medical Laboratory Scientist certified by the American Society for Clinical Pathology with over seven years of experience performing high-complexity testing in a large clinical laboratory environment. My background includes extensive work in clinical chemistry, hematology, and coagulation—routinely handling advanced diagnostic procedures such as:
 
 - Serum and Hemoglobin Electrophoresis and Immunofixation Interpretation  
 - Coagulation assays (PT, aPTT, Anti-Xa, STACLOT LA, Factor assays)  
